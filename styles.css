@@ -36,8 +36,8 @@ h1 {
 
 h2 {
 	font-size: 4em;
-	color: #99182C;
-	border-bottom: 2px dashed #99182C;
+	color: #E12F44;
+	border-bottom: 2px dashed #E12F44;
 	padding-bottom: 10px;
 }
 
@@ -69,13 +69,21 @@ ul li {
 	text-align: left;
 }
 
+img {
+	max-width: 100%;
+}
+
+img.postit {
+	max-width: 300px;
+}
+
 a {
 	text-decoration: none;
-	color: #186d99;
+	color: #00A1DE;
 }
 
 a:hover {
-	color: #189985;
+	color: #7AB800;
 }
 
 
